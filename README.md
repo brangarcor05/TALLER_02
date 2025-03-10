@@ -21,7 +21,7 @@ El código utiliza estructuras de datos eficientes como listas, colas y pilas pa
 
 ### Compilación
 ```sh
-g++ -o procesador main.cpp ArchivoTexto.cpp Palabra.cpp dividirPalabras.cpp
+g++ -o procesador taller02.cpp 
 ```
 
 ### Ejecución
