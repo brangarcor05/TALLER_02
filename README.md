@@ -55,6 +55,7 @@ palabras (Línea 2)
 Palabras que contienen la versión invertida de 'pal': 0
 ```
 
-## Licencia
-Este proyecto es de código abierto bajo la licencia MIT.
+## Licencia  
+Proyecto desarrollado por [Brandon Garcia Rodriguez]. Distribuido bajo la licencia MIT.  
+
 
